@@ -1,6 +1,3 @@
-## Voltane
-### Individual software solutions and consulting
-
 Visit our [Tech Blog](https://blog.voltane.eu?utm_source=github&utm_medium=profile)
 
 <!--
